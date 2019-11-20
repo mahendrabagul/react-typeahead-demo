@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import AsyncPaginationExample from "./AsyncPaginationExample";
+import AsyncExample from "./AsyncExample";
 
 function App() {
     return (
         <div className="jumbotron">
-            <AsyncPaginationExample/>
+            <AsyncExample/>
         </div>
     );
 }
